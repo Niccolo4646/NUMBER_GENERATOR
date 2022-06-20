@@ -1,0 +1,2 @@
+# NUMBER_GENERATOR
+This number generator is from 1 to 100000. DOWNLOAD PYTHON AND LIBRARY "RANDOM".
